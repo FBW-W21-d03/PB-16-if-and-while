@@ -10,6 +10,7 @@ Falls du noch 5 Pakete übrig hast, machst du eine Pause.
 5. In der Schleife musst du prüfen, ob es Zeit für eine Pause ist.
 
 Dein Ergebnis müsste so aussehen:
+
 Paket ausgeliefert
 
 Paket ausgeliefert
