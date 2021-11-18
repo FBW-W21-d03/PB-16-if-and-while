@@ -11,13 +11,23 @@ Falls du noch 5 Pakete übrig hast, machst du eine Pause.
 
 Dein Ergebnis müsste so aussehen:
 Paket ausgeliefert
+
 Paket ausgeliefert
+
 Paket ausgeliefert
+
 Paket ausgeliefert
+
 Paket ausgeliefert
+
 Ich mache eine Pause
+
 Paket ausgeliefert
+
 Paket ausgeliefert
+
 Paket ausgeliefert
+
 Paket ausgeliefert
+
 Paket ausgeliefert
