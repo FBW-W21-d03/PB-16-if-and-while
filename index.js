@@ -6,5 +6,5 @@ console.log('packet ist ausgeliefert');
   
 if (auto > 5) {
 } else if (auto > 10) {
-} else {
+} else {console.log("pause");
 }
