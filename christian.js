@@ -8,11 +8,11 @@ while (anzahlPakete > 0) {
     console.log("Ich mache eine Pause.");
   }
   // Liefere Paket aus
-  anzahlPakete--;
+  anzahlPakete--; // anzahlPakete = anzahlPakete - 1;
   // Während der Programmierung Ausgabe von Variable "anzahlPakete"
   // um zu sehen, was in der Schleife passiert...
-  console.log("Paket ausgeliefert. Pakete übrig:", anzahlPakete);
-  // console.log("Paket ausgeliefert.");
+  // console.log("Paket ausgeliefert. Pakete übrig:", anzahlPakete);
+  console.log("Paket ausgeliefert.");
 }
 
 // Nicht Teil der Aufgabe.
